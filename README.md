@@ -1,6 +1,6 @@
-# HydroX GMX - Perpetual Exchange on Cardano
+# Atlas GMX - Perpetual Exchange on Cardano
 
-HydroX is a GMX v1–style perpetual futures protocol written in Aiken for the Cardano eUTXO ledger. The system intentionally keeps a single stablecoin collateral pool to reduce volatility risk and simplify accounting.
+Atlas is a GMX v1–style perpetual futures protocol written in Aiken for the Cardano eUTXO ledger. The system intentionally keeps a single stablecoin collateral pool to reduce volatility risk and simplify accounting.
 
 ## Documentation
 
@@ -66,7 +66,7 @@ aiken test
 ## Repository Layout
 
 ```
-HydroX-smart-contracts/
+Atlas-smart-contracts/
 ├── docs/
 ├── lib/
 │   ├── types.ak
@@ -92,4 +92,4 @@ HydroX-smart-contracts/
 
 ## Disclaimer
 
-HydroX is experimental software. Use at your own risk, and commission a full audit before any mainnet deployment.
+Atlas is experimental software. Use at your own risk, and commission a full audit before any mainnet deployment.
